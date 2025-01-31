@@ -1,0 +1,167 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Find the value of x in the given polygon.<br><img width='70%' src='./assests/images/1.png'>",
+    "options": [
+      "80°",
+      "90°",
+      "100°",
+      "70°"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2",
+    "question": "What is the measure of x in the given irregular polygon?<br><img width='70%' src='./assests/images/2.png'>",
+    "options": [
+      "125°",
+      "120°",
+      "100°",
+      "105°"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Mrs. Smith's classroom has a large carpet in the shape of a regular polygon. She knows the sum of all the interior angles of the carpet is 540°. What shape does the carpet have?",
+    "options": [
+      "Circle",
+      "Triangle",
+      "Quadrilateral",
+      "Pentagon"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Determine the number of sides a polygon has if the sum of its interior angles is 1980 degrees?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5",
+    "question": "Determine the measure of x.<br><img width='70%' src='./assests/images/3.png'>",
+    "options": [
+      "125°",
+      "123°",
+      "100°",
+      "105°"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q6",
+    "question": "At a geometry-themed party, the balloons are shaped like regular polygons. One of the balloons has each interior angle measuring 135 degrees. What is the shape of the balloon?",
+    "options": [
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q7",
+    "question": "Find the x?<br><img width='70%' src='./assests/images/4.png'>",
+    "options": [
+      "25°",
+      "30°",
+      "40°",
+      "50°"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q8",
+    "question": "What is the approximate measure of each interior angle of a regular heptagon?",
+    "options": [
+      "128 degrees",
+      "132 degrees",
+      "135 degrees",
+      "140 degrees"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q9",
+    "question": "The sum of the interior angles of a polygon is 1800 degrees. How many sides does it have?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q10",
+    "question": "If the measure of x is equal to y and the measure of the other 4 angles is 260 degrees, find the value of y.<br><img width='55%' src='./assests/images/5.png'>",
+    "options": [
+      "250°",
+      "230°",
+      "100°",
+      "105°"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q11",
+    "question": "John is designing a kite in the shape of an irregular quadrilateral. Three of its angles measure 85°, 95°, and 120°. Can you find the measure of the fourth angle?",
+    "options": [
+      "90°",
+      "105°",
+      "100°",
+      "60°"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q12",
+    "question": "A flower bed is in the shape of a polygon with interior angles measuring 90°, 100°, 85°, and 120°. What is the measure of the 5th angle?",
+    "options": [
+      "125°",
+      "145°",
+      "150°",
+      "155°"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q13",
+    "question": "Emily is designing a hexagonal garden path. She wants the garden path to be perfectly regular, so she needs to calculate the measure of each interior angle of the hexagon. Find this measure for her.",
+    "options": [
+      "140°",
+      "120°",
+      "130°",
+      "150°"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q14",
+    "question": "The school playground has a large play structure in the shape of a regular polygon. Sarah knows the structure has 9 sides. Find the measure of each interior angle of this polygon.",
+    "options": [
+      "140°",
+      "120°",
+      "130°",
+      "150°"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q15",
+    "question": "A polygon has the following properties:<ul style='text-align:start'><li> It has 4 equal sides.</li><li> It has two pairs of parallel sides.</li><li> All of its angles are right angles.</li></ul> Which of the following shapes could match this description?",
+    "options": [
+      "Quadrilateral",
+      "Rectangle",
+      "Rhombus",
+      "Square"
+    ],
+    "correct": 3
+  }
+]
